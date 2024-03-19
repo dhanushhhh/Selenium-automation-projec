@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Project Logo](link_to_logo_image)
+![Project Logo](logo_small.png)
 
 This project involves automating the testing of the website [The Sparks Foundation Singapore](https://www.thesparksfoundationsingapore.org/) using Selenium. The goal is to automate various interactions and tests on the website as part of an internship task.
 
