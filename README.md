@@ -11,7 +11,7 @@ Brief overview of the project.
 4. [extract_company_name.py](extract_company_name.py) -
 
 ## About Us
-1.
+1. [about_info.py](about_info.py) -
 
 ## Contact Us
 
