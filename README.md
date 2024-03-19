@@ -5,6 +5,22 @@
 Brief overview of the project.
 
 ## Homepage
+1. [title.py](title.py) - 
+2. [check_footer_visibility.py](check_footer_visibility.py) - 
+3. [check_logo_presence.py](check_logo_presence.py) -
+4. [extract_company_name.py](extract_company_name.py) -
+
+## About Us
+1.
+
+## Contact Us
+
+
+## Policies
+
+## Join Us
+
+
 
 1. Homepage
  [Homepage](homepage.py) - `homepage.py`
