@@ -2,7 +2,10 @@
 
 ## Overview
 
-Brief overview of the project.
+![Project Logo](link_to_logo_image)
+
+This project involves automating the testing of the website [The Sparks Foundation Singapore](https://www.thesparksfoundationsingapore.org/) using Selenium. The goal is to automate various interactions and tests on the website as part of an internship task.
+
 
 ## Homepage
 -  [title.py](title.py) `title.py` - This code snippet utilizes Selenium WebDriver to open a webpage, retrieve its title, and print it.
