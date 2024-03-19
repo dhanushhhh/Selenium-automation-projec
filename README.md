@@ -22,7 +22,7 @@ Brief overview of the project.
 
 
 ## Join Us page
--  [join_form_submission.py](join_form_submission.py) `join_form_submission.py` -
+-  [join_form_submission.py](join_form_submission.py) `join_form_submission.py` - To automate form submission using Selenium WebDriver for web testing or data collection purposes.
 -  [highlight_internship_title.py](highlight_internship_title.py) `highlight_internship_title.py` - This code snippet demonstrates the automation of extracting and highlighting the title of the Graduate Rotational Internship Program on the website of The Sparks Foundation Singapore. It uses Selenium WebDriver to navigate to the Internship Positions page, locate the title element, and highlight it using JavaScript.
 
 
@@ -32,8 +32,24 @@ Brief overview of the project.
 
 ## Installation
 
-Instructions for installation.
+### Prerequisites
+- Python: [Download Python](https://www.python.org/downloads/)
+- Google Chrome: [Download Chrome](https://www.google.com/chrome/)
 
-## Usage
+### Dependencies
+1. Install Selenium:
+    ```
+    pip install selenium
+    ```
 
-Instructions for usage.
+2. Download ChromeDriver:
+    - Download ChromeDriver from the [ChromeDriver download page](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+    - Extract the downloaded file and place the `chromedriver` executable in your system PATH.
+
+### Running the Project
+
+- Run the Python script:
+    ```
+    python script_name.py
+    ```
+
