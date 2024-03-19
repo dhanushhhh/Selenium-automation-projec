@@ -11,21 +11,21 @@ Brief overview of the project.
 -  [extract_company_name.py](extract_company_name.py) `extract_company_name.py` -
 
 
-## About Us
+## About Us page
 -  [about_info.py](about_info.py) `about_info.py` -
 
 
-## Contact Us
+## Contact Us page
 -  [join_tsf_network.py](join_tsf_network.py) `join_tsf_network.py` - 
 -  [extract_email_address.py](extract_email_address.py) `extract_email_address.py` -
 
 
-## Join Us
+## Join Us page
 -  [join_form_submission.py](join_form_submission.py) `join_form_submission.py` -
 -  [highlight_internship_title.py](highlight_internship_title.py) `highlight_internship_title.py` -
 
 
-## Policies
+## Policies page
 - [click_and_highlight_policy_summary.py](click_and_highlight_policy_summary.py) `click_and_highlight_policy_summary.py` -
 
 
