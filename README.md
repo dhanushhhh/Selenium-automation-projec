@@ -43,7 +43,7 @@ Brief overview of the project.
     ```
 
 2. Download ChromeDriver:
-    - Download ChromeDriver from the [ChromeDriver download page](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+    - Download ChromeDriver from the [ChromeDriver download page](https://chromedriver.chromium.org/downloads).
     - Extract the downloaded file and place the `chromedriver` executable in your system PATH.
 
 ### Running the Project
