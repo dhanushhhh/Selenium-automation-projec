@@ -5,7 +5,7 @@
 Brief overview of the project.
 
 ## Homepage
--  [title.py](title.py) `title.py` - 
+-  [title.py](title.py) `title.py` **Title Element** - This code snippet utilizes Selenium WebDriver to open a webpage, retrieve its title, and print it.
 -  [check_footer_visibility.py](check_footer_visibility.py) `check_footer_visibility.py` -
 -  [check_logo_presence.py](check_logo_presence.py) `check_logo_presence.py` -
 -  [extract_company_name.py](extract_company_name.py) `extract_company_name.py` -
