@@ -33,8 +33,10 @@ This project involves automating the testing of the website [The Sparks Foundati
 - [click_and_highlight_policy_summary.py](click_and_highlight_policy_summary.py) `click_and_highlight_policy_summary.py` - This code snippet can be included in a GitHub README to demonstrate how to automate the extraction and highlighting of specific content (in this case, the policy summary) from a webpage using Selenium WebDriver.
 
 ## Sample output screenshots
-[Output1]()
-[Output2]()
+
+![Output1](sampleoutput1.png)
+
+![Output2](sampleoutput2.png)
 
 
 ## Installation
